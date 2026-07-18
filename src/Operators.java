@@ -1,5 +1,5 @@
 public class Operators {
-    static void main() {
+    public static void main() {
 
         int a = 100;
         int b = 50;
@@ -35,6 +35,6 @@ public class Operators {
 
         System.out.println("--------------------");
         System.out.println(3 > 2 && 10 < 15);
-        System.out.println(3 > 2 && 10 < 9);
+        System.out.println(3 > 2 || 10 < 9);
     }
 }
