@@ -2,7 +2,7 @@ import java.awt.*;
 
  public class MyString {
 
-    static void main() {
+    public static void main(String[] args) {
 
         String hello = "Hello, Prashant!";
         System.out.println(hello);
@@ -24,6 +24,5 @@ import java.awt.*;
 
         String movie = "My favourite movie is \n\"Home Alone\" ";
         System.out.println(movie);
-
     }
 }

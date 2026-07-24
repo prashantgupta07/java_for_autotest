@@ -1,6 +1,6 @@
 public class DataTypesDemo {
 
-    public static void main() {
+    public static void main(String[] args) {
         byte myByte = 50;
         short myShort = 30000;
         int myInt = 200000000;
